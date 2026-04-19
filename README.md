@@ -8,4 +8,4 @@ Dashboard URL: https://public.tableau.com/shared/NS3699R8S?:display_count=n&:ori
                    Overview of Analysis (Banks information in 3 Europe Country)
 After using Sql syntax, the following information was generated.
 <img width="548" height="175" alt="bank_europe_info" src="https://github.com/user-attachments/assets/4af29888-1aeb-4835-863a-033f32478ed5" />
-
+(1) Germany and France has the highest number of customers with highest revenue compared to Spain which has lowest number of customer.
