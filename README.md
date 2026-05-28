@@ -9,3 +9,6 @@ Dashboard URL: https://public.tableau.com/shared/NS3699R8S?:display_count=n&:ori
 After using Sql syntax, the following information was generated.
 <img width="548" height="175" alt="bank_europe_info" src="https://github.com/user-attachments/assets/4af29888-1aeb-4835-863a-033f32478ed5" />
 (1) Germany and France has the highest number of customers with highest revenue compared to Spain which has lowest number of customer.
+
+It is also discovered that France has the largest number of customers and largest total balance in their banks compared to Spain that has the lowest.
+<img width="677" height="186" alt="bank_details" src="https://github.com/user-attachments/assets/848717fb-b4f6-4c50-be4e-0185aafab8c0" />
